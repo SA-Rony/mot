@@ -29,6 +29,9 @@
       "eas": {
         "projectId": "d847c68a-e488-4791-b66b-9fa5bfdc129f"
       }
+    },
+    "android": {
+      "package": "com.rony79.mot"
     }
   }
 }
